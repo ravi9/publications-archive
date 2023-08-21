@@ -15,3 +15,5 @@ This is an archive of the blog publications which have been moved or have expire
 
 6. 7-Mar-2019: [Intel Optimized Data Science Virtual Machine on Microsoft Azure_ - Intel AI.pdf](Intel%20Optimized%20Data%20Science%20Virtual%20Machine%20on%20Microsoft%20Azure_%20-%20Intel%20AI.pdf)
 
+7. 28-Sept-2021: [Accelerating Genome Workloads Using the OpenVINOTM Integration with TensorFlow.pdf](Accelerating%20Genome%20Workloads%20Using%20the%20OpenVINOTM%20Integration%20with%20TensorFlow.pdf)
+
